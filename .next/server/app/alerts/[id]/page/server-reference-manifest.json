@@ -1,0 +1,27 @@
+{
+  "node": {
+    "409590e17dcd0cca5bf36b8e14dcb718f8d98d0abf": {
+      "workers": {
+        "app/alerts/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/alerts/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generate-alert-notification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/send-notification.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/alerts/[id]/page": "action-browser"
+      }
+    },
+    "402b21ef834cd6e02892412f0e3c3005e2d54e3a84": {
+      "workers": {
+        "app/alerts/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/alerts/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generate-alert-notification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/send-notification.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/alerts/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
